@@ -10,6 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="bin\" />
     <Folder Include="CameraFFMPEG\" />
   </ItemGroup>
 
