@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NvrOrchestrator": {
+      "commandName": "Project",
+      "commandLineArgs": "Walkway 24:4B:FE:E2:1D:E9 55343 \"-i rtsp://192.168.1.253:7070/stream1 -i Walkway\\\\xmap.pgm -i Walkway\\\\ymap.pgm -lavfi remap\""
+    }
+  }
+}
