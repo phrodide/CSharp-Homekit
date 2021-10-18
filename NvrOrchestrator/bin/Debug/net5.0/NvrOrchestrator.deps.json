@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NvrOrchestrator/1.0.0": {
+        "runtime": {
+          "NvrOrchestrator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NvrOrchestrator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

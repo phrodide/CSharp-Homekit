@@ -1,0 +1,16 @@
+C:\Users\Andrew\source\repos\NvrOrchestrator\NvrOrchestrator\bin\Debug\net5.0\NvrOrchestrator.exe
+C:\Users\Andrew\source\repos\NvrOrchestrator\NvrOrchestrator\bin\Debug\net5.0\NvrOrchestrator.deps.json
+C:\Users\Andrew\source\repos\NvrOrchestrator\NvrOrchestrator\bin\Debug\net5.0\NvrOrchestrator.runtimeconfig.json
+C:\Users\Andrew\source\repos\NvrOrchestrator\NvrOrchestrator\bin\Debug\net5.0\NvrOrchestrator.runtimeconfig.dev.json
+C:\Users\Andrew\source\repos\NvrOrchestrator\NvrOrchestrator\bin\Debug\net5.0\NvrOrchestrator.dll
+C:\Users\Andrew\source\repos\NvrOrchestrator\NvrOrchestrator\bin\Debug\net5.0\ref\NvrOrchestrator.dll
+C:\Users\Andrew\source\repos\NvrOrchestrator\NvrOrchestrator\bin\Debug\net5.0\NvrOrchestrator.pdb
+C:\Users\Andrew\source\repos\NvrOrchestrator\NvrOrchestrator\obj\Debug\net5.0\NvrOrchestrator.csproj.AssemblyReference.cache
+C:\Users\Andrew\source\repos\NvrOrchestrator\NvrOrchestrator\obj\Debug\net5.0\NvrOrchestrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\source\repos\NvrOrchestrator\NvrOrchestrator\obj\Debug\net5.0\NvrOrchestrator.AssemblyInfoInputs.cache
+C:\Users\Andrew\source\repos\NvrOrchestrator\NvrOrchestrator\obj\Debug\net5.0\NvrOrchestrator.AssemblyInfo.cs
+C:\Users\Andrew\source\repos\NvrOrchestrator\NvrOrchestrator\obj\Debug\net5.0\NvrOrchestrator.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\NvrOrchestrator\NvrOrchestrator\obj\Debug\net5.0\NvrOrchestrator.dll
+C:\Users\Andrew\source\repos\NvrOrchestrator\NvrOrchestrator\obj\Debug\net5.0\ref\NvrOrchestrator.dll
+C:\Users\Andrew\source\repos\NvrOrchestrator\NvrOrchestrator\obj\Debug\net5.0\NvrOrchestrator.pdb
+C:\Users\Andrew\source\repos\NvrOrchestrator\NvrOrchestrator\obj\Debug\net5.0\NvrOrchestrator.genruntimeconfig.cache
