@@ -1,2 +1,2 @@
 # CSharp-Homekit
-Apply Homekit implementation in pure C#. No unsafe or external dependencies.
+Apple Homekit implementation in pure C#. No unsafe or external dependencies.
