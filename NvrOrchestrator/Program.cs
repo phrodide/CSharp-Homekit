@@ -123,6 +123,18 @@
  *     . Have a monitor that stops / starts the executable if something goes wrong
  *     
  *     I'm walking away for a bit. I love the progress made in just a few days' time, but I'm ready to tackle something else.
+ *     
+ *  2023-01-29 I picked this back up after a long hiatus. I moved the project to .NET 6.0 from .NET 5.0. I've also decided to mark the project public on github.
+ *     I'm hopeful someone sees this and decids to do some more with it. I'll also happily take bug requests. Here's what I've noticed after running this internally for
+ *     over a year:
+ *     . Homekit will ask for a better video resolution and my system ignores it. That needs to be fixed.
+ *     . I should either make a configurator, or I should better make public the configuration steps. I say a configurator. In my head, a single executable should be able to 
+ *       handle N cameras, in however fashion deemed necessary. I would probably do threads for each camera, and not spawn processes. But this is developer preference.
+ *     . My router will ignore the Bonjour stuff after months of listening to it. Restarting the process / computer does nothing. Restarting the router does. Am I doing something wrong?
+ *     . While my system implements the Doorbell and not just the camera, I don't do the button press, I don't do the 2 way audio, and I don't do motion.
+ *     . My cameras do best when RTSP authentication is turned off. This can be configured in a passthrough for ffmpeg, but if you get an error, this is my first suggestion.
+ *     
+ *     Happy trails, folks.
  */
 using System;
 using System.Net;
